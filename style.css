@@ -1,0 +1,81 @@
+.row {
+    
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+    
+    
+}
+.col-1 {
+    background: olive;
+    flex: 1 1 5%;
+    height: 30px;
+}
+
+
+.col-2 {
+    background: orange;
+    flex: 1 1 50%;
+    height: 30px;
+}
+.col-3 {
+    background: red;
+    flex: 1 1 12%;
+    height: 30px;
+}
+
+.col-4 {
+    background: blue;
+    height: 30px;
+    flex: 1 1 12%;
+}
+
+.col-5 {
+    background: yellow;
+    height: 30px;
+    flex: 1 1 33.3%;   
+
+}
+
+.col-6 {
+    background: gray;
+    height: 30px;
+    flex: 1 1 12%;  
+}
+
+.col-7 {
+    background:green;
+    height: 30px;
+    flex: 1 1 12%;  
+}
+
+.col-8 {
+    background:rebeccapurple;
+    height: 30px;
+    flex: 1 1 12%;  
+}
+
+.col-9 {
+    background: yellowgreen;
+    height: 30px;
+    flex: 1 1 12%;  
+}
+
+.col-10 {
+    background: black;
+    height: 30px;
+    flex: 1 1 12%;  
+}
+
+.col-11 {
+    background: purple;
+    height: 30px;
+    flex: 1 1 50%;   
+}
+
+.col-12 {
+    background: pink;
+    height: 30px;
+    flex: 1 1 15%;  
+}
